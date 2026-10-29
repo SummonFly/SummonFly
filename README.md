@@ -9,20 +9,15 @@
 
 ### 🛠️ Технический стек и навыки
 
-- **Языки и платформы:** 
-  ![C#](https://shields.io) ![.NET 8/9](https://shields.io) ![.NET Framework 4.8](https://shields.io)
-- **Web-разработка:** 
-  ![ASP.NET Core Web API](https://shields.io) ![MVC / Razor Pages](https://shields.io) ![JWT / Identity](https://shields.io)
-- **Архитектура и паттерны:** 
-  `Clean Architecture` • `CQRS (MediatR)` • `DDD (Value Objects, Domain Events)` • `EAV (Entity-Attribute-Value)` • `MVVM`
-- **Валидация и утилиты:** 
-  `FluentValidation` • `AutoMapper`
-- **Базы данных:** 
-  ![PostgreSQL](https://shields.io) ![MS SQL Server](https://shields.io) ![EF Core](https://shields.io)
-- **DevOps и Инфраструктура:** 
-  ![Docker](https://shields.io) ![Docker Compose](https://shields.io) ![Traefik](https://shields.io) ![Portainer](https://shields.io) ![GitHub Actions](https://shields.io) ![Linux VPS](https://shields.io)
-- **Gamedev:**
-  ![Unity](https://shields.io)
+- **🚀 Языки и платформы:** C#, .NET 8 / 9, .NET Framework 4.8
+- **🌐 Web-разработка:** ASP.NET Core Web API, MVC, Razor Pages, JWT Authentication, Identity
+- **📐 Архитектурные паттерны:** Clean Architecture, CQRS (MediatR), DDD (Value Objects, Domain Events), EAV (Entity-Attribute-Value), MVVM
+- **⚙️ Валидация и утилиты:** FluentValidation, AutoMapper
+- **🗄️ Базы данных:** PostgreSQL, MS SQL Server, EF Core (Code-First), базовый SQL
+- **🐳 DevOps и Инфраструктура:** Docker, Docker Compose, Traefik (Reverse Proxy, SSL/Let's Encrypt), Portainer, CI/CD (GitHub Actions), SSH, Linux VPS
+- **🎮 Game Development:** Unity (C#)
+- **👥 Командная работа:** Git, GitHub, координация программной части в условиях жестких дедлайнов
+
 
 ---
 
@@ -59,6 +54,15 @@
 📂 **[GameInConsole](https://github.com)**
 > **Консольная мини-игра (Just for fun).**
 > - Проект-протест, написанный прямо на парах, чтобы легально обходить запреты преподавателей на сторонние игры. Демонстрирует умение быстро ориентироваться в условиях жестких дедлайнов.
+
+---
+
+### 📊 Статистика GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180px"/>
+  <img src="https://herokuapp.com" alt="GitHub Streak" height="180px"/>
+</p>
 
 ---
 
