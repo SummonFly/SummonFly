@@ -1,16 +1,68 @@
-## Hi there 👋
+# Привет! Я SummonFly 👋
+### C# / .NET Developer (ASP.NET Core / WPF / Unity)
 
-<!--
-**SummonFly/SummonFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специализируюсь на проектировании архитектуры бэкенда, контейнеризации и автоматизации деплоя. На практике применяю принципы **Clean Architecture**, **CQRS** и элементы **DDD** для создания изолированной, тестируемой и поддерживаемой бизнес-логики. Имею опыт развертывания multi-сервисных сред на удаленных серверах (Linux VPS) и автоматизации доставки кода (CI/CD). Кроме того, обладаю крепкими навыками в разработке десктопных приложений (WPF) и интерактивных проектов (Unity).
 
-Here are some ideas to get you started:
+Рассматриваю позиции **Junior+ / Middle C# Developer** в командах с развитой инженерной культурой и сильной .NET-экспертизой.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технический стек и навыки
+
+- **Языки и платформы:** 
+  ![C#](https://shields.io) ![.NET 8/9](https://shields.io) ![.NET Framework 4.8](https://shields.io)
+- **Web-разработка:** 
+  ![ASP.NET Core Web API](https://shields.io) ![MVC / Razor Pages](https://shields.io) ![JWT / Identity](https://shields.io)
+- **Архитектура и паттерны:** 
+  `Clean Architecture` • `CQRS (MediatR)` • `DDD (Value Objects, Domain Events)` • `EAV (Entity-Attribute-Value)` • `MVVM`
+- **Валидация и утилиты:** 
+  `FluentValidation` • `AutoMapper`
+- **Базы данных:** 
+  ![PostgreSQL](https://shields.io) ![MS SQL Server](https://shields.io) ![EF Core](https://shields.io)
+- **DevOps и Инфраструктура:** 
+  ![Docker](https://shields.io) ![Docker Compose](https://shields.io) ![Traefik](https://shields.io) ![Portainer](https://shields.io) ![GitHub Actions](https://shields.io) ![Linux VPS](https://shields.io)
+- **Gamedev:**
+  ![Unity](https://shields.io)
+
+---
+
+### 🚀 Избранные проекты
+
+📂 **[Laboratory-color-business](https://github.com)**
+> **Бизнес-решение для автоматизации магазина автоэмалей.**
+> - **Стек:** .NET 8, Clean Architecture, PostgreSQL, EF Core, React.
+> - **Архитектура:** Коммерчески-ориентированное production-ready приложение. Бизнес-логика полностью изолирована от внешних зависимостей и баз данных (разделение на слои Core, Application, Infrastructure, WebAPI).
+
+📂 **[DirectoryMonitor](https://github.com)**
+> **Утилита для продвинутого мониторинга изменений в файловой системе (Дипломный проект).**
+> - **Стек:** C# 12, .NET 8, WPF (MVVM), Entity Framework Core, SQLite.
+> - **Ключевые фичи:** 
+>   - Реализован кастомный движок правил (`RuleEngine`) с комплексными логическими условиями (AND/OR/NOT), валидацией размеров файлов, расширений и Regex.
+>   - Поддержка 8 типов автоматических действий (динамический запуск CLI-скриптов, менеджмент файлов/папок, подстановка контекстных переменных).
+>   - Многопоточный фоновый мониторинг со сворачиванием в системный трей и клиент-серверным логированием в SQLite.
+
+📂 **[MathViewer3D](https://github.com)**
+> **Приложение для трехмерного моделирования и визуализации математических объектов (Курсовой проект).**
+> - **Стек:** C#, .NET Framework, WPF 3D / XAML, GUI Architecture.
+> - **Ключевые фичи:** Разработка программных модулей для работы с трехмерной графикой. Реализована кастомная генерация полигональных сеток (`BaseMeshGenerator`), управление сценой (`SceneObjectManager`), интерактивный контроллер камеры (`CameraController`) и рендеринг векторных полей.
+
+📂 **[HappySweetWorldGame](https://github.com)**
+> **Сюрреаристическое приключение с элементами психологического хоррора (В разработке).**
+> - **Стек:** Unity, C#, Git Flow.
+> - **Особенности:** Опыт работы в кросс-функциональной инди-команде (BNG). Отвечаю за программную архитектуру, реализацию механики переключения между монохромным и искаженным мирами, а также за систему уникальных способностей персонажа и логику игровых триггеров.
+
+📂 **[DepressionGameProject](https://github.com/SummonFly/DepressionGameProject)**
+> **Abyss of Despair — 2D-нарративный психологический пазл-платформер (Первый крупный проект на Unity).**
+> - **Стек:** Unity, C#, Спрайтовая анимация, Unity Timeline.
+> - **Ключевые фичи:** Командный учебный проект с законченным игровым циклом. Доведен до играбельной релизной сбоки (Build): включает в себя 6 локаций, верстку UI, интеграцию 8 кастомных пазлов, 6 логических головоломок «Пятнашки», систему диалогов и механики сохранений прогресса.
+
+📂 **[GameInConsole](https://github.com)**
+> **Консольная мини-игра (Just for fun).**
+> - Проект-протест, написанный прямо на парах, чтобы легально обходить запреты преподавателей на сторонние игры. Демонстрирует умение быстро ориентироваться в условиях жестких дедлайнов.
+
+---
+
+### 📫 Контакты для связи
+
+- **Хабр Карьера:** [alugard_info](https://habr.com)
+- **GitHub:** [SummonFly](https://github.com/SummonFly)
